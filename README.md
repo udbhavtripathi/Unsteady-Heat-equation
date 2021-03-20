@@ -1,2 +1,2 @@
 # Unsteady-Heat-equation
-In this project I have used FEniCS to find out the approximate solution of Unsteady heat equation.
+In this project I have used FEniCS to find out the approximate solution of Unsteady heat equation.I have solved for 2 seconds using 10 time-step of 0.2 seconds each.I solved this equation over a square of unit dimension and discretize it into 128 triangular elements.Then I set it into a variational problem and defined the initial and boundary conditions and finally computed the solutions.
